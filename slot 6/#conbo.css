@@ -1,0 +1,19 @@
+body{
+    background-image:url('cobo.jpg' );
+    background-repeat: repeat-y;
+}
+h3{ 
+    font-size: 24px;
+    color: #ffffff;
+}
+.myBox {
+    width: 700px;
+    background-color: greenyellow;
+}
+.myBox img {
+     
+    border: 1px dashed rgb(3, 3, 3); ;
+    float: right;
+    width: 300px;
+    margin-left: 20px ;
+}

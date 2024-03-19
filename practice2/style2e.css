@@ -1,0 +1,25 @@
+
+body{
+    font-family: Trebuchet MS, Verdana, Arial, sans-serif; font-size: 16px;
+}
+h1{
+    color: #010101;
+font-size: 36px
+}
+h3{
+
+color: #09c;
+border-bottom: 1px dotted #09c;
+padding-bottom: 5px;
+font-size: 30px; }
+.upperRoman{
+list-style-type: upper-roman;
+}
+.lowerRoman
+list-style-type: Lower-roman;
+.upperAlpha{
+list-style-type: upper-alpha;
+}
+.lowerAlpha{
+list-style-type: lower-alpha;
+}

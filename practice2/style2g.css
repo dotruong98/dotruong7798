@@ -1,0 +1,12 @@
+
+body{
+font-family: Palatino Linotype, Times New Roman, serif;
+font-size: 16px;
+color: #333;}
+.table_01{
+margin: 20px 0px;
+border: 1px solid rgb(143, 230, 89); border-collapse: collapse;}
+.table_01 th, td{
+border: 1px solid rgb(99, 243, 99); padding: 20px;}
+.table_01 th{
+background-color: #aca;}

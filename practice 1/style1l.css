@@ -1,0 +1,12 @@
+.float_left_box{
+
+width: 200px; height:120px;
+margin: 15px; padding: 20px; float:left;
+background-color:rgb(33, 119, 199);
+color:#fff;}
+.clear_float{
+clear: left;
+border: 1px dashed #666;
+margin:15px;
+width: 600px;
+}

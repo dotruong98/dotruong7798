@@ -1,0 +1,19 @@
+
+body{
+font-family: Trebuchet MS, Arial, sans-serif; font-size: 16px;
+}
+h3{
+color:#093;
+font-size: 36px;
+}
+.bold{
+font-weight: bold;
+}
+.italic{
+font-style: italic;
+}
+.oblique{
+font-style: oblique;
+}
+.redText{
+color:red; }

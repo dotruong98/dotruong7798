@@ -1,0 +1,32 @@
+
+
+
+body{
+font-family: Palatino Linotype, Times New Roman, serif; font-size: 16px;
+color: #30c;
+font-size: 24px;
+}
+h3{ color : #30c;
+    font-size: 24px;}
+.whiteText{
+color: #fff;
+background-color: #555;
+}
+.centerAlign{
+text-align: center;
+}
+.rightAlign{
+text-align: right;
+}
+.underlineText{
+text-decoration: underline;
+}
+.overlineText{
+text-decoration: overline;
+}
+.LineThroughText{
+}
+text-decoration: line-through;
+.indentText{
+text-indent: 50px;
+}

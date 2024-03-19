@@ -1,0 +1,10 @@
+
+.sans_serif_font{
+}
+font-family: Lucida sans Unicode, Verdana, Arial, sans_serif; font-size: 30px;
+text-align: center;
+.serif_font{
+font-family: Palatino Linotype, Times New Roman, serif;
+font-size: 30px;
+text-align: center;
+}
